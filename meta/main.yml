@@ -1,0 +1,23 @@
+---
+galaxy_info:
+  author: Mark Hesketh
+  description: Set hostname and hosts using on the playbook's inventory.
+  license: MIT
+  min_ansible_version: 1.8
+  platforms:
+    - name: Ubuntu
+      versions:
+        - all
+    - name: Debian
+      versions:
+        - all
+    - name: CentOS
+      versions:
+        - all
+    - name: Fedora
+      versions:
+        - all
+  categories:
+    - system
+
+dependencies: []
